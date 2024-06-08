@@ -1,6 +1,6 @@
 # Weather App
 
-![Weather App](https://github.com/anand44xy/Myntra-clone/blob/main/Images/Screenshot%20(44).png)
+![Weather App](https://github.com/anand44xy/Weather-App/blob/main/images/Screenshot%20(49).png)
 
 ## Description
 WeatherWise is a web application that allows users to search for and view the current weather conditions for any city in the world. This project was developed to enhance skills in Bootstrap, responsiveness, JavaScript, and API calls.
